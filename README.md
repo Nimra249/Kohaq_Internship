@@ -19,3 +19,6 @@ During my 8 weeks with **Kohaq**, I aim to:
 - Gain hands-on experience in frontend and backend workflows
 - Understand collaborative tools like GitHub, Notion, and documentation writing
 - Become confident enough to build and contribute to real applications
+
+#Task 3:
+https://www.linkedin.com/posts/nimra-saba-8b9161314_im-happy-to-share-that-im-starting-a-new-activity-7357077760189636608-WgXJ?utm_source=share&utm_medium=member_android&rcm=ACoAAE_Bvc0BoxqSfE0jSpOdxWifUixjIVFHh2k
